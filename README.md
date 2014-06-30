@@ -1,4 +1,4 @@
 CodeEvalJS
 ==========
 
-JavaScript solution to Code Eval Problems
+JavaScript solution to CodeEval (https://www.codeeval.com/) Problems.
