@@ -36,9 +36,7 @@ var isPrime = function (n) {
 };
 
 /**
- * Determine if n is a palindrome number
- * @param {integer} n The integer to test
- * @returns {boolean}
+ * Get the sum of the first 1000 prime numbers
  */
 
 var sumOfPrimes = function (limit) {

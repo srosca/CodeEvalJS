@@ -1,5 +1,5 @@
 /**
- * Prime Palindrome Module
+ * Sum of Primes Module
  */
 (function () {
 
